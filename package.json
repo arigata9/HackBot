@@ -1,0 +1,32 @@
+{
+  "name": "hackbot",
+  "version": "0.0.1",
+  "description": "HackBot for the german hackintosh discord community, written in javascript using the akairo framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arigata9/HackBot.git"
+  },
+  "keywords": [
+    "discord.js",
+    "discord-akairo",
+    "discord",
+    "bot"
+  ],
+  "author": "arigata9",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arigata9/HackBot/issues"
+  },
+  "homepage": "https://github.com/arigata9/HackBot#readme",
+  "dependencies": {
+    "discord-akairo": "^8.0.0",
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "path": "^0.12.7"
+  }
+}
